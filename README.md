@@ -26,7 +26,7 @@ Die Variable 'text' ist vom Datentyp '<class 'str'>' und hat gespeichert: Python
 Denken Sie daran, dass Sie den Datentyp einer Variable mit dem Kommando `type` ermitteln können:  
 ```
 zahl = 12
-print(f"Datentyp von 'zahl' ist: '{type(zahl)})
+print(f"Datentyp von 'zahl' ist: '{type(zahl)}")
 ```
 
 **WICHTIG:** Ändere **NICHT** die anderen Dateien
